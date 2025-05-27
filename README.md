@@ -210,7 +210,7 @@ Dashboard yang sudah dibuat ditujukan untuk keperluan analisis status akademik m
 ## 🚀 Menjalankan Sistem Machine Learning
 Untuk menjalankan prototipe sistem machine learning yang telah dibuat, pengguna dapat mengakses aplikasi melalui browser dengan mengunjungi tautan berikut:
 
-    🔗 Link Aplikasi (Streamlit Comunity) :
+    🔗 Link Aplikasi (Streamlit Comunity) : https://student-s-performance-dicoding-dimas-ishaq.streamlit.app/
 
 Aplikasi ini dibuat menggunakan Streamlit dan telah di-deploy secara online agar dapat diakses oleh siapa saja tanpa perlu menginstal aplikasi secara lokal.
 
