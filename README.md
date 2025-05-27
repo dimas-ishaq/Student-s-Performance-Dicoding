@@ -173,29 +173,29 @@ Dashboard yang sudah dibuat ditujukan untuk keperluan analisis status akademik m
 
  - Distribusi Mahasiswa Berdasarkan Mothers_ocuppation dan  Status :
 
-   - Menelusuri pengaruh latar belakang sosial ekonomi (ditinjau dari pekerjaan ibu) terhadap kelangsungan studi mahasiswa.
-   - Melihat apakah terdapat korelasi antara jenis pekerjaan ibu dengan status akademik anaknya.
-   - Mengidentifikasi apakah kelompok pekerjaan tertentu memiliki lebih banyak mahasiswa dropout.
+       - Menelusuri pengaruh latar belakang sosial ekonomi (ditinjau dari pekerjaan ibu) terhadap kelangsungan studi mahasiswa.
+       - Melihat apakah terdapat korelasi antara jenis pekerjaan ibu dengan status akademik anaknya.
+       - Mengidentifikasi apakah kelompok pekerjaan tertentu memiliki lebih banyak mahasiswa dropout.
 
  - Distribusi Mahasiswa Berdasarkan Fathers_ocuppation dan  Status :
 
-  - Mengetahui apakah jenis pekerjaan ayah berpengaruh terhadap kelangsungan studi mahasiswa.
-  - Menggali korelasi antara status ekonomi keluarga (dari pekerjaan ayah) dengan peluang kelulusan atau risiko dropout.
-  - Memberikan dasar bagi pengambilan keputusan kebijakan sosial kampus, terutama bantuan dan dukungan.
+      - Mengetahui apakah jenis pekerjaan ayah berpengaruh terhadap kelangsungan studi mahasiswa.
+      - Menggali korelasi antara status ekonomi keluarga (dari pekerjaan ayah) dengan peluang kelulusan atau risiko dropout.
+      - Memberikan dasar bagi pengambilan keputusan kebijakan sosial kampus, terutama bantuan dan dukungan.
 
  - Distribusi Mahasiswa Berdasarkan Fathers_ocuppation dan  Status :
 
-  - Mengidentifikasi apakah jenis kualifikasi sebelumnya berpengaruh terhadap kelulusan, dropout, atau keberlangsungan studi.
-  - Menilai kesiapan akademik mahasiswa berdasarkan latar belakang pendidikan sebelumnya.
-  - Membantu pihak universitas untuk:
-  - Mendesain program bridging atau matrikulasi untuk kualifikasi tertentu
-  - Menyusun kebijakan penerimaan mahasiswa baru yang lebih efektif
+      - Mengidentifikasi apakah jenis kualifikasi sebelumnya berpengaruh terhadap kelulusan, dropout, atau keberlangsungan studi.
+      - Menilai kesiapan akademik mahasiswa berdasarkan latar belakang pendidikan sebelumnya.
+      - Membantu pihak universitas untuk:
+      - Mendesain program bridging atau matrikulasi untuk kualifikasi tertentu
+      - Menyusun kebijakan penerimaan mahasiswa baru yang lebih efektif
 
  - Distribusi Mahasiswa Berdasarkan Fathers_ocuppation dan  Status :
 
-  - Untuk mengetahui apakah tingkat pendidikan ibu memiliki pengaruh terhadap keberhasilan akademik mahasiswa.
-  - Mendeteksi hubungan antara latar belakang keluarga (khususnya ibu) dan kemungkinan mahasiswa untuk tetap aktif, lulus, atau dropout.
-  - Memberikan dasar bagi kebijakan dukungan tambahan kepada mahasiswa dari keluarga dengan tingkat pendidikan rendah.
+      - Untuk mengetahui apakah tingkat pendidikan ibu memiliki pengaruh terhadap keberhasilan akademik mahasiswa.
+      - Mendeteksi hubungan antara latar belakang keluarga (khususnya ibu) dan kemungkinan mahasiswa untuk tetap aktif, lulus, atau dropout.
+      - Memberikan dasar bagi kebijakan dukungan tambahan kepada mahasiswa dari keluarga dengan tingkat pendidikan rendah.
 
 
 #### 🚀 Menjalankan Notebook.ipynb dan app.py
