@@ -38,8 +38,8 @@ Tuliskan seluruh permasalahan bisnis yang akan diselesaikan.
 Tuliskan cakupan proyek yang akan dikerjakan.
 
     1.  Analisis data mahasiswa berdasarkan dataset yang disediakan, Melakukan eksplorasi dan pembersihan data untuk memahami struktur dan kualitas data sebagai dasar analisis lebih lanjut.
-    2. Identifikasi faktor-faktor penyebab utama tingginya "Dropout" , Menggunakan teknik statistik dan machine learning untuk menemukan variabel-variabel yang paling memengaruhi kecenderungan karyawan untuk keluar.
-    3. Pembangunan sistem monitoring berbasis machine learning dan Looker Google, Mengembangkan sistem prediktif dan visualisasi interaktif untuk memantau pola attrition, memprediksi risiko, dan menyajikan insight kepada tim HR secara real time.
+    2. Identifikasi faktor-faktor penyebab utama tingginya "Dropout" , Menggunakan teknik statistik dan machine learning untuk menemukan variabel-variabel yang paling memengaruhi kecenderungan mahasiswa untuk dropout.
+    3. Pembangunan sistem prediksi  berbasis machine learning dan dashboard monitoring menggunakan Looker Studio Google, Mengembangkan sistem prediktif dan visualisasi interaktif untuk memantau fitur - fitur potensial terhadap status "Dropout", "Graudated" dan "Enrolled", memprediksi risiko, dan menyajikan insight kepada Institut.
     4. Melakukan deployment model melalui layanan Streamlit Community agar dapat digunakan untuk prediksi, mendapatkan insight serta dapat diakses secara public.
 
 ### Persiapan
